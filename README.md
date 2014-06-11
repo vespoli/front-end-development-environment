@@ -55,12 +55,6 @@ Sass mixin library
 
 [http://compass-style.org/install/]: http://compass-style.org/install/
 
-### Breakpoint
-Media query mixin
-
-    gem install breakpoint
-
-http://breakpoint-sass.com/
 
 ### MAMP
 Easy host configuration. The free version should be fine but not as nice as pro which allows you to configure multiple hosts.
