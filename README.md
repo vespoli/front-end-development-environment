@@ -35,12 +35,15 @@ http://www.sublimetext.com/
 
 
 For sublime add package control:
-
 https://sublime.wbond.net/installation#st2
 
-jade language package:
+Install these packages with:
+Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packages >
+Jade
+JsFormat
+Sass
+SCSS
 
-Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packages > Jade
 
 ### CodeKit
 CodeKit is used for building the front end portion of the project as well as provides other useful services such as syntax checking and image optimization.
