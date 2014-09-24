@@ -40,10 +40,11 @@ https://sublime.wbond.net/installation#st2
 
 Install these packages with:
 Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packages >
-Jade
-JsFormat
-Sass
-SCSS
+
+- Jade
+- JsFormat
+- Sass
+- SCSS
 
 
 ### CodeKit
