@@ -33,6 +33,11 @@ Pick an editor that will allow you to easily see the level of indention. This wi
 
 http://www.sublimetext.com/
 
+For sublime add package control:
+https://sublime.wbond.net/installation#st2
+jade language package:
+Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packages > Jade
+
 ### CodeKit
 CodeKit is used for building the front end portion of the project as well as provides other useful services such as syntax checking and image optimization.
 The CodeKit config file is part of project repository and located at the project root. The folder can be dragged into codekit to create a new project. 
