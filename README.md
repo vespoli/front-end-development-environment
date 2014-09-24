@@ -33,9 +33,13 @@ Pick an editor that will allow you to easily see the level of indention. This wi
 
 http://www.sublimetext.com/
 
+
 For sublime add package control:
+
 https://sublime.wbond.net/installation#st2
+
 jade language package:
+
 Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packages > Jade
 
 ### CodeKit
