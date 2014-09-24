@@ -10,7 +10,7 @@ This setup is specific to mac users.
 ### Homebrew
 This is a "package-manager" like utility for easily installing things on a mac
 
-    ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 http://brew.sh/
 
