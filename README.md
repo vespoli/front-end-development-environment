@@ -21,6 +21,7 @@ http://brew.sh/
     git config --global user.name "Your Name"
     git config --global user.email "your@email.com"
 
+### Note: Doing this as a seperate step may no longer be necesary if you added this as part of your brew install
 ### Xcode + command line tools
 Command line tools are needed for various command line utilities as well as a dependancy for some of the other tools
 
