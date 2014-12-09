@@ -45,13 +45,7 @@ Sublime Text 2 > Preferrences > Package Control > Package Control:Install Packag
 - SCSS
 
 
-### CodeKit
-CodeKit is used for building the front end portion of the project as well as provides other useful services such as syntax checking and image optimization.
-The CodeKit config file is part of project repository and located at the project root. The folder can be dragged into codekit to create a new project. 
 
-*Note: You will need to use the actual compass executable, not CodeKit's. (CodeKit > Preferences > Other Tools > Compass > Advanced Compiler Settings > Use the Compass executable at this path:. Set it to your compass directory which is probably /usr/bin/compass)*
-
-http://incident57.com/codekit/
 
 *You may ned to use the sudo keyword for any of the following if you get a permissions error
 
@@ -75,3 +69,10 @@ Easy host configuration. The free version should be fine but not as nice as pro 
 
 http://www.mamp.info/en/index.html
 
+### CodeKit
+CodeKit is used for building the front end portion of the project as well as provides other useful services such as syntax checking and image optimization.
+The CodeKit config file is part of project repository and located at the project root. The folder can be dragged into codekit to create a new project. 
+
+*Note: You will need to use the actual compass executable, not CodeKit's. (CodeKit > Preferences > Other Tools > Compass > Advanced Compiler Settings > Use the Compass executable at this path:. Set it to your compass directory which is probably /usr/bin/compass)*
+
+http://incident57.com/codekit/
