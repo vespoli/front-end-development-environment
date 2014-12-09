@@ -7,6 +7,11 @@ This document serves as a list of the stuff you will need to set up a front end 
 
 This setup is specific to mac users.
 
+### Xcode + command line tools
+Command line tools are needed for various command line utilities as well as a dependancy for some of the other tools
+
+https://developer.apple.com/xcode/
+
 ### Homebrew
 This is a "package-manager" like utility for easily installing things on a mac
 
@@ -21,21 +26,14 @@ http://brew.sh/
     git config --global user.name "Your Name"
     git config --global user.email "your@email.com"
 
-### Note: Doing this as a seperate step may no longer be necesary if you added this as part of your brew install
-### Xcode + command line tools
-Command line tools are needed for various command line utilities as well as a dependancy for some of the other tools
-
-https://developer.apple.com/xcode/
-
-
 
 ### Editor
-Pick an editor that will allow you to easily see the level of indention. This will be very important for developing JADE templates. Sublime Text text is a great choice:
+Pick an editor that will allow you to easily see the level of indention. This will be very important for developing JADE templates. Sublime Text is a popular choice:
 
 http://www.sublimetext.com/
 
 
-For sublime add package control:
+If you go with sublime add package control:
 https://sublime.wbond.net/installation#st2
 
 Install these packages with:
