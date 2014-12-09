@@ -3,7 +3,7 @@ front-end-development-environment
 
 ## Front End Development Environment Setup
 
-This document serves as a list of the stuff you will need to set up a front end development environment to support most front end projects I develop. I plan to extend this to include a skeleton starter project. 
+This document serves as a list of the stuff you will need to set up a front end development environment to support most front end projects I develop. 
 
 This setup is specific to mac users.
 
