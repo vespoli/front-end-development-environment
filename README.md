@@ -53,6 +53,8 @@ The CodeKit config file is part of project repository and located at the project
 
 http://incident57.com/codekit/
 
+*You may ned to use the sudo keyword for any of the following if you get a permissions error
+
 ### SASS
 
     gem install sass
