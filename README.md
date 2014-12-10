@@ -26,6 +26,10 @@ http://brew.sh/
     git config --global user.name "Your Name"
     git config --global user.email "your@email.com"
 
+### svn
+    
+    brew install subversion
+
 
 ### Editor
 Pick an editor that will allow you to easily see the level of indention. This will be very important for developing JADE templates. Sublime Text is a popular choice:
